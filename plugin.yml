@@ -1,0 +1,10 @@
+name: EconomyAPIUI
+main: Wolf\Main
+api: [3.0.0, 3.1.0, 3.1.1]
+version: 1.0
+author: Wolfkid
+description: EconomyAPIUI
+commands:
+ ecoui:
+  usage: /ecoui
+  description: To Open The UI Of EconomyAPI Menu
